@@ -68,3 +68,6 @@ print(incio_sesion.comprobacion('direccion_correo, intentos, intentosMax, nombre
 ```
 
 **UML:**
+
+<img width="281" alt="excepcion" src="https://user-images.githubusercontent.com/91721875/161437173-e5315a9f-cb86-43ac-8511-baa21e038c9a.png">
+
