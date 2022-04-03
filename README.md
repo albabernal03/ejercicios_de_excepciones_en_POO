@@ -14,3 +14,8 @@ En esta tarea hemos resuelto un ejercicio, en el cual se nos pide validar una di
 ## Indice
 
 1. Ejercicio 
+
+***
+
+## Ejercicio 1:
+
