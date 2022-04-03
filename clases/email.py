@@ -6,4 +6,6 @@ class inicio_sesion():
     self.intentosMax= intentosMax
     self.nombre= nombre
   def comprobacion(self):
+    intentos = 0
+    intentosMax = 3
     
