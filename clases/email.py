@@ -22,6 +22,8 @@ class inicio_sesion():
         break
       elif re.search('@', direccion_correo)== None:
         print('El correo introducido no es válido')
+        
+      intentos += 1
       
       
     
