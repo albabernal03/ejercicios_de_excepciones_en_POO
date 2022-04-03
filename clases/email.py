@@ -10,5 +10,9 @@ class inicio_sesion():
     intentosMax = 3
 
     while True and intentos < intentosMax:
+      try:
+        nombre = str(print(input('Introduzca su nombre:')))
+      except SyntaxError:
+        print('El nombre introducido es inválido')
       
     
