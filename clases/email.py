@@ -5,3 +5,5 @@ class inicio_sesion():
     self.intentos = intentos
     self.intentosMax= intentosMax
     self.nombre= nombre
+  def comprobacion(self):
+    
