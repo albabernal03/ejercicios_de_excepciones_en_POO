@@ -63,8 +63,8 @@ class incio_sesion():
 
 print(incio_sesion.comprobacion('direccion_correo, intentos, intentosMax, nombre'))            
 
-       
-
-
+     
 
 ```
+
+**UML:**
