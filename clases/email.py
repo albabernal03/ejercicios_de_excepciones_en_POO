@@ -16,5 +16,9 @@ class inicio_sesion():
         print('El nombre introducido es inválido')
 
       direccion_correo = print(input('Introduzca su dirección de correo:'))
+      if re.search('@', direccion_correo):
+        print('El correo electrónico introducido es váido')
+        print('Bienvenido a la web', nombre, 'ha iniciado sesión')
+      
       
     
