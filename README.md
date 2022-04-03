@@ -13,11 +13,11 @@ En esta tarea hemos resuelto un ejercicio, en el cual se nos pide validar una di
 
 ## Indice
 
-1. Ejercicio 
+1. [Ejercicio](#id1)
 
 ***
 
-## Ejercicio 1:
+## Ejercicio 1:<a name="id1"></a>
 
 **Código:**
 
