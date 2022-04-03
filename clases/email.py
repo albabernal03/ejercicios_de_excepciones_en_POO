@@ -14,5 +14,7 @@ class inicio_sesion():
         nombre = str(print(input('Introduzca su nombre:')))
       except SyntaxError:
         print('El nombre introducido es inválido')
+
+      direccion_correo = print(input('Introduzca su dirección de correo:'))
       
     
