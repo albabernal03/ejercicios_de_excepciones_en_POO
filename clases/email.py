@@ -19,6 +19,9 @@ class inicio_sesion():
       if re.search('@', direccion_correo):
         print('El correo electrónico introducido es váido')
         print('Bienvenido a la web', nombre, 'ha iniciado sesión')
+        break
+      elif re.search('@', direccion_correo)== None:
+        print('El correo introducido no es válido')
       
       
     
