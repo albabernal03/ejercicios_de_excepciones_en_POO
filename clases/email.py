@@ -24,6 +24,8 @@ class inicio_sesion():
         print('El correo introducido no es válido')
         
       intentos += 1
+    if intentos == intentosMax:
+      print('Posible ciberataque!')
       
       
     
