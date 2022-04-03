@@ -8,4 +8,7 @@ class inicio_sesion():
   def comprobacion(self):
     intentos = 0
     intentosMax = 3
+
+    while True and intentos < intentosMax:
+      
     
