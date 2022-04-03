@@ -26,6 +26,8 @@ class inicio_sesion():
       intentos += 1
     if intentos == intentosMax:
       print('Posible ciberataque!')
+
+print(inicio_sesion.comprobacion('direccion_correo, intentos, intentosMax, nombre'))
       
       
     
