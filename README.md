@@ -17,7 +17,7 @@ En esta tarea hemos resuelto un ejercicio, en el cual se nos pide validar una di
 
 ***
 
-## Ejercicio 1:<a name="id1"></a>
+## Ejercicio:<a name="id1"></a>
 
 **Código:**
 
